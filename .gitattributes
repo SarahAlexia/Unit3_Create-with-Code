@@ -1,7 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.c text
-*.h text
-* text eol=crlf
-*.png binary
-*.jpg binary
+*.bat eol=crlf
